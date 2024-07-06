@@ -4,8 +4,8 @@ const nextConfig = {
     GOOGLE_ID:'1033819761057-0mog557qird85ov6cq7811a7cp57cvsk.apps.googleusercontent.com',
     GOOGLE_CLIENT_SECRET:'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',
     MONGO_URI : 'mongodb+srv://dmadhusudhan98:NDnVSev8FBeRXgeC@cluster0.z70qzwr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
-    NEXTAUTH_URL : 'https://next-prompt-41ikf2cwu-madhusudhan123stars-projects.vercel.app',
-    NEXTAUTH_URL_INTERNAL  : 'https://next-prompt-41ikf2cwu-madhusudhan123stars-projects.vercel.app',
+    NEXTAUTH_URL : 'https://next-prompt-mv7pypaft-madhusudhan123stars-projects.vercel.app',
+    NEXTAUTH_URL_INTERNAL  : 'https://next-prompt-mv7pypaft-madhusudhan123stars-projects.vercel.app',
     NEXTAUTH_SECRET: 'B1stnWvavIUPPwoxMAM9ksw//2Pe6HGRh70kOfOtMV4=',
   },
     experimental: {

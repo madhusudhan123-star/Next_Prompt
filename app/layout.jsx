@@ -12,6 +12,8 @@ const RootLayout = ({children}) => {
     return (
         <html lang="en">
             <head>
+                <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4476899930876130"
+        crossorigin="anonymous"></Script>
                 <Script strategy="afterInteractive" src="https://www.googletagmanager.com/gtag/js?id=G-EXEDCM9SCQ"/>
                 <Script
                     id='google-analytics'

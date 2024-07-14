@@ -28,7 +28,7 @@ const Nav = () => {
           height={30}
           className='object-contain'
         />
-        <p className='logo_text'>Prompttopic</p>
+        <p className='logo_text'>Next_Prompt</p>
       </Link>
       {/* Desktop Navbar */}
       <div className='sm:flex hidden'>
